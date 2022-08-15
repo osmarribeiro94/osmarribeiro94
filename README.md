@@ -23,6 +23,7 @@
 <!--   <img align="center" alt="Osmar-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> -->
   <img align="center" alt="Osmar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Osmar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Osmar-Quarkus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
 <!--   <img align="center" alt="Osmar-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  -->
 <!--   <img align="center" alt="Osmar-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   -->
 <!--    <img align="center" alt="Osmar-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -->
